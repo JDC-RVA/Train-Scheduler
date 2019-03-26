@@ -1,3 +1,13 @@
 body {
-    background-image: url(../images/connectwork.png)
+    /* background-image: url(../images/brickwall.png); */
+    background-image: url(../images/brickwall_@2X.png); 
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
+    font-size: 5.5rem;
+}
+
+p {
+    font-family: 'Righteous', cursive;
 }
