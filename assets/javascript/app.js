@@ -1,11 +1,11 @@
 $(document).ready(function(){
     var config = {
-        apiKey: "AIzaSyAB5FEd_EVUYitBm1vU0ecQblf0e9OU-4M",
-        authDomain: "test-9fb34.firebaseapp.com",
-        databaseURL: "https://test-9fb34.firebaseio.com",
-        projectId: "test-9fb34",
-        storageBucket: "test-9fb34.appspot.com",
-        messagingSenderId: "575791419854"
+        apiKey: "AIzaSyDjDUeWANSIwPC8mbCX184vAhuWtwUiSyg",
+        authDomain: "train-scheduler-4ebd3.firebaseapp.com",
+        databaseURL: "https://train-scheduler-4ebd3.firebaseio.com",
+        projectId: "train-scheduler-4ebd3",
+        storageBucket: "train-scheduler-4ebd3.appspot.com",
+        messagingSenderId: "851363798813"
       };
     firebase.initializeApp(config);
 
