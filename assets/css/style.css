@@ -8,6 +8,21 @@ h1 {
     font-size: 5.5rem;
 }
 
+h2 {
+    font-family: 'Righteous', cursive;
+    /* font-size: 5.5rem; */
+}
+
+h3 {
+    font-family: 'Righteous', cursive;
+    /* font-size: 5.5rem; */
+}
+
 p {
     font-family: 'Righteous', cursive;
+}
+
+.panel-body {
+    font-family: 'Righteous', cursive;
+    /* font-size: 5.5rem; */
 }
