@@ -1,4 +1,7 @@
 # Train-Scheduler
+
+https://jdc-rva.github.io/Train-Scheduler/
+
 A train schedule application that incorporates Firebase to host arrival and departure data.
 
-Time and date format and functionality utilizes Moment.js 
+Calculations to time and date as well as format utilizes Moment.js 
